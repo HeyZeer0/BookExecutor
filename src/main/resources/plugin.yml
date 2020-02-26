@@ -1,0 +1,11 @@
+name: BookExecutor
+version: 1.0.0
+author: HeyZeer0
+
+api-version: 1.15
+main: net.heyzeer0.be.Main
+
+commands:
+  bookexecutor:
+    aliases: [ "be" ]
+    description: Book Executor general commands
